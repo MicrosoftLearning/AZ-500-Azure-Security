@@ -566,7 +566,7 @@ By default, no monitoring alerts are created when NSGs are created/updated/delet
 
 6.  Click **Create alert rule**
 
-## Exercise 5: Create a Networking baseline
+## Exercise 6: Create a Networking baseline
 
 
 Azure networking services maximize flexibility, availability, resiliency, security, and integrity by design. Network connectivity is possible between resources located in Azure, between on-premises and Azure-hosted resources, and to and from the Internet and Azure.
