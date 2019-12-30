@@ -1,4 +1,4 @@
-# Module 3: Lab 8 - Create security baselines 
+# Module 4: Lab 8 - Create security baselines 
 
 
 Azure doesn't monitor security or respond to security incidents within the customer's area of responsibility. Azure does provide many tools (such as Azure Security Center, Azure Sentinel) that are used for this purpose. There is also an effort to help make every service as secure as possible by default. That is, every service comes with a baseline that is already designed to help provide security for most common-use cases. However, because Azure cannot predict how a service will be used, you should always review these security controls to evaluate whether they adequately mitigate risks.

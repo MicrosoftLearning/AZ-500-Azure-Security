@@ -19,7 +19,7 @@ Network traffic is subjected to the configured firewall rules when you route you
 1.  Open Powershell and run the following Powershell command to open a ARM Template which will deploy resources used throughout this lab.  _If prompted select Chrome as the browser of choice._
 
      ```powershell
-    start "https://portal.azure.com/#create/Microsoft.Template/uri/ https%3A%2F%2Fraw.githubusercontent. com%2FGoDeploy%2FAZ500%2Fmaster%2FAZ500%20Mod2%20Lab%207%2Ftemplate.json"
+    start "https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FGoDeploy%2FAZ500%2Fmaster%2FAZ500%20Mod2%20Lab%207%2Ftemplate.json"
      ```
  
 2.  Click **Create new** under the Resource Group and use the resource group name of **Test-FW-RG**  

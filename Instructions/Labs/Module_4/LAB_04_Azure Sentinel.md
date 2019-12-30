@@ -1,4 +1,4 @@
-# Module 3: Lab 4 - Azure Sentinel
+# Module 4: Lab 4 - Azure Sentinel
 
 
 Azure Sentinel is your bird's-eye view across the enterprise. Put the cloud and large-scale intelligence from decades of Microsoft security experience to work. Make your threat detection and response smarter and faster with artificial intelligence (AI)

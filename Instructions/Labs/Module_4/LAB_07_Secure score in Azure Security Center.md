@@ -1,4 +1,4 @@
-# Module 3: Lab 7 - Secure score in Azure Security Center
+# Module 4: Lab 7 - Secure score in Azure Security Center
 
 
 With so many services offering security benefits, it's often hard to know what steps to take first to secure and harden your workload. The Azure secure score reviews your security recommendations and prioritizes them for you, so you know which recommendations to perform first. This helps you find the most serious security vulnerabilities so you can prioritize investigation. Secure score is a tool that helps you assess your workload security posture.

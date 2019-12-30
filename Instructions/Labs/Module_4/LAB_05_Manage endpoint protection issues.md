@@ -1,4 +1,4 @@
-# Module 3: Lab 5 - Manage endpoint protection issues with Azure Security Center
+# Module 4: Lab 5 - Manage endpoint protection issues with Azure Security Center
 
 
 Azure Security Center monitors the status of antimalware protection and reports this under the Endpoint protection issues blade. Security Center highlights issues, such as detected threats and insufficient protection, which can make your virtual machines (VMs) and computers vulnerable to antimalware threats. By using the information under **Endpoint protection issues**, you can identify a plan to address any issues identified.

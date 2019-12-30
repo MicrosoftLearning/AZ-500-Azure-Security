@@ -1,4 +1,4 @@
-# Module 3: Lab 2 -Security Center
+# Module 4: Lab 2 -Security Center
 
 
 Azure Security Center is a unified infrastructure security management system that strengthens the security posture of your data centers, and provides advanced threat protection across your hybrid workloads in the cloud - whether they're in Azure or not - as well as on premises.
@@ -26,11 +26,11 @@ To enable automatic provisioning of the Microsoft Monitoring Agent:
 
 1.  In the Azure Portal, select the **Security Center** from the Hub menu.
 
-     ![Screenshot](https://godeployblob.blob.core.windows.net//labguideimages/AZ-500---VML---v2-Sept-2019/Module-2/9df52230-13bb-4705-b525-b52bf51ef6d0.png)
+     ![Screenshot](../Media/Module-3/9df52230-13bb-4705-b525-b52bf51ef6d0.png)
 
 1.  On the **Getting started** blade click **Upgrade**.
 
-     ![Screenshot](https://godeployblob.blob.core.windows.net//labguideimages/AZ-500---VML---v2-Sept-2019/Module-2/53a03638-526c-47a8-b25a-fc613c9e7cda.png)
+     ![Screenshot](../Media/Module-3/53a03638-526c-47a8-b25a-fc613c9e7cda.png)
      
 1.  Under the Security Center main menu, select **Pricing & settings**.
 

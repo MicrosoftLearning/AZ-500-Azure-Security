@@ -60,7 +60,7 @@ warning
 
 1.  Under funtion keys select copy under actions on the default function key and keep this in a notepad file
 
-1.  Open **PowerShell ISE** and copy in powerhsell code from the following **URL**
+1.  Open **PowerShell ISE** and copy in PowerShell code from the following **URL**
 
      ```cli
     https://github.com/GoDeploy/AZ500/blob/master/AZ500%20Mod2%20Lab%202/RESTgetHTTPtrigger.ps1

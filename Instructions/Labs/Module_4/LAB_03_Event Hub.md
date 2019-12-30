@@ -1,4 +1,4 @@
-# Module 3: Lab 3 - Event hub
+# Module 4: Lab 3 - Event hub
 
 
 Connect sending and receiving applications with Event Hubs so you can handle extremely high loads without losing data.
@@ -103,7 +103,7 @@ In this lab, you will:
 ### Task 5: Download the script files
 
 
-We will now download the scripts that will be used to create some events to be sent into the Event Hub, this will simulate the Event Hub receiving data from an application in the environment that has been written to communicate with Event Hubs, or from other systems that communicate with Azure Event Hubs. The script files have been developed by godeploy and publish on the PowerShell gallery
+We will now download the scripts that will be used to create some events to be sent into the Event Hub, this will simulate the Event Hub receiving data from an application in the environment that has been written to communicate with Event Hubs, or from other systems that communicate with Azure Event Hubs. The script files have been developed and published on the PowerShell gallery
 
 
 1.  Open **PowerShell as administrator** (right click on the PowerShell icaon) and run the following command
@@ -137,7 +137,7 @@ For this section you will need the primary key copied from the portal erlier
       - **numberOfEvents**:    10 (you can choose more, but they will take longer to send to the Event Hub)
   
 
-If you recieve a series if **401 Unauthorised errors** from the script check the clock on the machine you have executed the code, if using the godeploy machine it should be set to UTC. If you have corrected the time you will need to restart the PowerShell shell and re-run the code.
+If you recieve a series if **401 Unauthorised errors** from the script check the clock on the machine you have executed the code, if using a virtual machine it should be set to UTC. If you have corrected the time you will need to restart the PowerShell shell and re-run the code.
 
 
 **Note**: This will send a series of events to the Event Hub with randomised data

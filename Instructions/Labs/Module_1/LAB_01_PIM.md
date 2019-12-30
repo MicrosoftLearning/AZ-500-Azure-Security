@@ -280,10 +280,6 @@ When you need to take on an Azure AD directory role, you can request activation 
 
      ![Screenshot](../Media/Module-1/a52510a3-b2a2-4b21-91a8-ee7f34b39a72.png)
 
-1.  In the Azure Portal, click **All services** and search for and select **Azure AD Privileged Identity Management**.
-
-     ![Screenshot](../Media/Module-1/a52510a3-b2a2-4b21-91a8-ee7f34b39a72.png)
-
 1.  Click **Azure AD roles**.
 
      ![Screenshot](../Media/Module-1/9914545c-313f-4c9a-84a5-d7c383c7ee37.png)
