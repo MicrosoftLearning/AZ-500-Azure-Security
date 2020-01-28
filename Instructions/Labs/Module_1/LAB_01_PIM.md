@@ -274,7 +274,7 @@ When you need to take on an Azure AD directory role, you can request activation 
 1.  Click **Billing Administrator** and add Isabella back into the **Billing Administrators** role.
 
 
-1.  Open an **In Private** browsing session and navigate to **`https://portal.azure.com`** and login as **Isabella** using her UPN. example Isabella@myaad.onmicrosoft.com with the password **Pa55w.rd**.  When prompted change Isabella's password.
+1.  Open an **In Private** browsing session and navigate to **`https://portal.azure.com`** and login as **Isabella** using her UPN. example Isabella@myaadonmicrosoft.com with the password **Pa55w.rd**.  When prompted change Isabella's password.
 
 1.  In the Azure Portal, click **All services** and search for and select **Azure AD Privileged Identity Management**.
 
