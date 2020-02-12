@@ -104,6 +104,20 @@ In this tak you will Create a Gateway Subnet and a Virtual network Gateway which
 
 1.  Select the **OnPremRG** Resource Group.
 
+1. Select **Network Security Group** called **SecurityGroup**
+
+1. Click **Inbound Security Rules** then **Add**
+
+1. Set the **destination port range** to **500**
+
+1. Set **Protocol** to **UDP**
+
+1. Change the name to **Allow_UDP_500**
+
+1. Click **Add**
+
+1.  Select the **OnPremRG** Resource Group.
+
 1.  Select the **PublicIP** Resource.
 
      ![Screenshot](../Media/Module-2/27e13d3f-d9a8-499c-b49a-bb7aaef1c2b5.png)
