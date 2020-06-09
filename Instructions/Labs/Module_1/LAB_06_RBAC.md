@@ -9,7 +9,6 @@ In this module, you'll learn about Role-Based Access Control as the foundation t
 - Azure Active Directory (Refresher)
 - Protecting Privileged Access in the Environment
 
-# Lab 5: Introduction to Identity Protection in Azure
 
 ## Exercise 1: Role-Based Access Control
 
@@ -87,7 +86,8 @@ You should now have 5 users in your Azure AD
 2. Fill in the details with the following details:
   
       - **Group Type**: Security
-      - **Group Name**: Senior Admins Group 
+      - **Group Name**: Senior Admins Group
+      - **Membership Type**: Assigned
     
 3. In the Members section, click No Members link and search for and select Bill then click **Select**.
 
