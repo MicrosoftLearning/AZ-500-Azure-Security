@@ -113,7 +113,7 @@ You should now have 5 users in your Azure AD
  
 8. Exit the **Cloud Shell**.
 
-9. In the **Active Directory blade** click **Groups** and confirm you have **5** groups
+9. In the **Active Directory blade** click **Groups** and confirm you have **4** groups
 
      ![Screenshot](../Media/Module-1/c4bf8dc8-e4dc-4603-8961-0cdc0ba57cd5.png)
 
