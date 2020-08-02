@@ -72,7 +72,7 @@ The best way to ensure that locks are in place and protecting your resources is 
      ```
 
      ```powershell
-     New-AzResourceLock -LockLevel CanNotDelete -LockName criticalStorageLock -ResourceName XXXXXX -ResourceType Microsoft.Storage/storageAccounts -ResourceGroupName LockRG
+     New-AzResourceLock -LockLevel CanNotDelete -LockName criticalStorageLock -ResourceName XXXXXX -ResourceType Microsoft.Storage/storageAccounts -ResourceGroupName LockRG -Force
      ```
 
 1.  To remove a lock use the following command. _(Change XXXXXX in the command to the name of your Storage Account)_
